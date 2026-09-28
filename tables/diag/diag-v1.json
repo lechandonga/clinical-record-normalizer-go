@@ -1,0 +1,11 @@
+{
+  "system": "diag",
+  "version": "diag-v1",
+  "entries": [
+    {"code": "I10",   "status": "active", "concept_system": "DIAG", "concept": "HTN",        "display": "高血压病"},
+    {"code": "I21.9", "status": "active", "concept_system": "DIAG", "concept": "AMI",        "display": "急性心肌梗死"},
+    {"code": "E11.9", "status": "active", "concept_system": "DIAG", "concept": "DM2",        "display": "2型糖尿病"},
+    {"code": "J00",   "status": "active", "concept_system": "DIAG", "concept": "COLD",       "display": "急性鼻咽炎"},
+    {"code": "LC-OLD","status": "active", "concept_system": "DIAG", "concept": "LC",         "display": "支气管肺恶性肿瘤"}
+  ]
+}

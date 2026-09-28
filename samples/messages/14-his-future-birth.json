@@ -1,0 +1,15 @@
+{
+  "message_id": "MSG-0014",
+  "source_id": "his-hospital-a",
+  "sent_at": "2026-05-11T08:00:00+08:00",
+  "version": "diag-v1",
+  "payload": {
+    "patient_mrn": "MRN-A1014",
+    "sex": "M",
+    "birth_date": "2035-01-01",
+    "visit_id": "V-7700",
+    "visit_type": "OP",
+    "start": "2026-05-11T08:00:00+08:00",
+    "diagnoses": ["I10"]
+  }
+}

@@ -1,0 +1,5 @@
+[
+  {"id": "his-hospital-a", "priority": 100, "time_zone": "Asia/Shanghai"},
+  {"id": "community-clinic-b", "priority": 50, "time_zone": "Asia/Shanghai"},
+  {"id": "partner-lab-c", "priority": 20}
+]

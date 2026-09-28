@@ -1,0 +1,16 @@
+{
+  "message_id": "MSG-0006",
+  "source_id": "his-hospital-a",
+  "sent_at": "2026-05-05T11:00:00+08:00",
+  "payload": {
+    "patient_mrn": "MRN-A1003",
+    "sex": "M",
+    "birth_date": "1977-11-11",
+    "visit_id": "V-7300",
+    "visit_type": "IP",
+    "start": "2026-05-05T11:00:00+08:00",
+    "diagnoses": [
+      "Z99.99"
+    ]
+  }
+}

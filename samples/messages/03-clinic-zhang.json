@@ -1,0 +1,16 @@
+{
+  "message_id": "MSG-0003",
+  "source_id": "community-clinic-b",
+  "sent_at": "2026-05-02 14:20:00",
+  "version": "diag-v1",
+  "payload": {
+    "patient_id": "CB-2002",
+    "identity_no": "110101199001011234",
+    "gender": "M",
+    "birthday": "1990-01-01",
+    "visit_no": "CB-V-330",
+    "type": "OP",
+    "visit_date": "2026-05-02 14:20:00",
+    "diag_codes": ["E11.9"]
+  }
+}

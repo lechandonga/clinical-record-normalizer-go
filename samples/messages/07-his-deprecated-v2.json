@@ -1,0 +1,15 @@
+{
+  "message_id": "MSG-0007",
+  "source_id": "his-hospital-a",
+  "sent_at": "2026-06-01T10:00:00+08:00",
+  "version": "diag-v2",
+  "payload": {
+    "patient_mrn": "MRN-A1003",
+    "sex": "M",
+    "birth_date": "1977-11-11",
+    "visit_id": "V-7400",
+    "visit_type": "OP",
+    "start": "2026-06-01T10:00:00+08:00",
+    "diagnoses": ["LC-OLD"]
+  }
+}

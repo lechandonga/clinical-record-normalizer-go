@@ -1,0 +1,16 @@
+{
+  "message_id": "MSG-0004",
+  "source_id": "his-hospital-a",
+  "sent_at": "2026-05-03T07:15:00Z",
+  "version": "diag-v1",
+  "payload": {
+    "patient_mrn": "MRN-A1002",
+    "id_card": "31010119880707567X",
+    "sex": "F",
+    "birth_date": "1988-07-07",
+    "visit_id": "V-7200",
+    "visit_type": "急诊",
+    "start": "2026-05-03T07:15:00Z",
+    "diagnoses": ["J00"]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "message_id": "MSG-0001",
+  "source_id": "his-hospital-a",
+  "sent_at": "2026-03-01T08:30:00+08:00",
+  "version": "diag-v1",
+  "payload": {
+    "patient_mrn": "MRN-A1001",
+    "id_card": "110101199001011234",
+    "sex": "男",
+    "birth_date": "1990-01-01",
+    "visit_id": "V-7001",
+    "visit_type": "住院",
+    "start": "2026-02-28T22:10:00+08:00",
+    "end": "2026-03-05T10:00:00+08:00",
+    "diagnoses": ["I21.9", "I10"]
+  }
+}

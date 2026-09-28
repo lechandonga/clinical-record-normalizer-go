@@ -1,0 +1,16 @@
+{
+  "message_id": "MSG-0005",
+  "source_id": "partner-lab-c",
+  "sent_at": "2026-05-04T03:00:00Z",
+  "version": "diag-v1",
+  "payload": {
+    "card_id": "LAB-9001",
+    "id_card": "31010119880707567X",
+    "sex": "2",
+    "birth_date": "1988-07-07",
+    "encounter_id": "LAB-E-55",
+    "visit_type": "OUTPATIENT",
+    "start_at": "2026-05-04T03:00:00Z",
+    "codes": ["E11.9"]
+  }
+}

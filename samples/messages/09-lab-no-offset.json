@@ -1,0 +1,15 @@
+{
+  "message_id": "MSG-0009",
+  "source_id": "partner-lab-c",
+  "sent_at": "2026-05-06 09:00:00",
+  "version": "diag-v1",
+  "payload": {
+    "card_id": "LAB-9002",
+    "sex": "M",
+    "birth_date": "1980-02-02",
+    "encounter_id": "LAB-E-56",
+    "visit_type": "OP",
+    "start_at": "2026-05-06 09:00:00",
+    "codes": ["I10"]
+  }
+}

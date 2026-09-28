@@ -1,0 +1,15 @@
+{
+  "message_id": "MSG-0015",
+  "source_id": "ghost-system-z",
+  "sent_at": "2026-05-12T08:00:00+08:00",
+  "version": "diag-v1",
+  "payload": {
+    "patient_mrn": "X-1",
+    "sex": "M",
+    "birth_date": "1980-01-01",
+    "visit_id": "V-X1",
+    "visit_type": "OP",
+    "start": "2026-05-12T08:00:00+08:00",
+    "diagnoses": ["I10"]
+  }
+}
