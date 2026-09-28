@@ -1,0 +1,102 @@
+[
+  {
+    "source": "hospitalB",
+    "recordId": "B-2001",
+    "receivedAt": "2026-09-10T15:00:00Z",
+    "patient": {
+      "identifiers": [{"system": "MRN", "value": "MRN-001"}, {"system": "SSN", "value": "S-111"}],
+      "name": "Zhang Wei (B hospital record)",
+      "gender": "male",
+      "birthDate": "1980-05-12",
+      "assumedAt": "2026-09-09T00:00:00Z"
+    },
+    "encounter": {
+      "start": "2026-09-10T14:30:00Z",
+      "end": "2026-09-10T15:00:00Z",
+      "typeSystem": "LOCAL-ENC",
+      "typeCode": "INPAT",
+      "diagnoses": [
+        {"system": "ICD-10", "code": "I10", "rank": 1}
+      ]
+    }
+  },
+  {
+    "source": "hospitalB",
+    "recordId": "B-2002",
+    "receivedAt": "2026-09-11T10:00:00Z",
+    "patient": {
+      "identifiers": [{"system": "MRN", "value": "MRN-001"}],
+      "name": "Completely Different Person",
+      "gender": "female",
+      "birthDate": "1999-01-01"
+    },
+    "encounter": {
+      "start": "2026-09-11T09:00:00Z",
+      "end": "2026-09-11T09:30:00Z",
+      "typeSystem": "LOCAL-ENC",
+      "typeCode": "OUTPAT",
+      "diagnoses": [
+        {"system": "ICD-10", "code": "I10", "rank": 1}
+      ]
+    }
+  },
+  {
+    "source": "hospitalB",
+    "recordId": "B-2003",
+    "receivedAt": "2026-09-12T10:00:00Z",
+    "patient": {
+      "identifiers": [{"system": "MRN", "value": "MRN-005"}],
+      "name": "Zhao Min",
+      "gender": "female",
+      "birthDate": "1990-02-18"
+    },
+    "encounter": {
+      "start": "2026-09-12",
+      "end": "2026-09-12T10:30:00Z",
+      "typeSystem": "LOCAL-ENC",
+      "typeCode": "OUTPAT",
+      "diagnoses": [
+        {"system": "ICD-10", "code": "R51", "rank": 1}
+      ]
+    }
+  },
+  {
+    "source": "hospitalB",
+    "recordId": "B-2004",
+    "receivedAt": "2026-09-13T08:00:00Z",
+    "patient": {
+      "identifiers": [{"system": "MRN", "value": "MRN-006"}],
+      "name": "Sun Li",
+      "gender": "female",
+      "birthDate": "1983-12-05"
+    },
+    "encounter": {
+      "start": "2026-09-13T08:00:00Z",
+      "end": "2026-09-13T08:30:00Z",
+      "typeSystem": "ICD-10",
+      "typeCode": "OUTPAT",
+      "diagnoses": []
+    }
+  },
+  {
+    "source": "hospitalA",
+    "recordId": "A-1001",
+    "receivedAt": "2026-09-14T08:30:00Z",
+    "patient": {
+      "identifiers": [{"system": "MRN", "value": "MRN-001"}, {"system": "SSN", "value": "S-111"}],
+      "name": "Zhang Wei",
+      "gender": "male",
+      "birthDate": "1980-05-12",
+      "assumedAt": "2026-08-01T00:00:00Z"
+    },
+    "encounter": {
+      "start": "2026-09-01T08:00:00Z",
+      "end": "2026-09-01T08:45:00Z",
+      "typeSystem": "LOCAL-ENC",
+      "typeCode": "OUTPAT",
+      "diagnoses": [
+        {"system": "ICD-10", "code": "I10", "rank": 1}
+      ]
+    }
+  }
+]

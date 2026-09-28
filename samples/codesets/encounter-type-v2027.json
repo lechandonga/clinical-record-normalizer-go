@@ -1,0 +1,11 @@
+{
+  "name": "encounter-type",
+  "version": "v2027",
+  "system": "LOCAL-ENC",
+  "entries": [
+    {"code": "OUTPAT", "display": "Outpatient visit", "canonicalCode": "OUTPAT"},
+    {"code": "INPAT", "display": "Inpatient stay", "canonicalCode": "INPAT"},
+    {"code": "EMER", "display": "Emergency visit", "canonicalCode": "EMER"},
+    {"code": "URGENT", "display": "Urgent care visit", "canonicalCode": "URGENT"}
+  ]
+}

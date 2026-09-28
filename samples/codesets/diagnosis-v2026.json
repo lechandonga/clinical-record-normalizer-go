@@ -1,0 +1,11 @@
+{
+  "name": "diagnosis",
+  "version": "v2026",
+  "system": "ICD-10",
+  "entries": [
+    {"code": "I10", "display": "Essential (primary) hypertension", "canonicalCode": "I10"},
+    {"code": "E11.9", "display": "Type 2 diabetes mellitus without complications", "canonicalCode": "E11.9"},
+    {"code": "J45.9", "display": "Asthma, unspecified", "canonicalCode": "J45.9"},
+    {"code": "Z00.00", "display": "General adult medical examination", "canonicalCode": "Z00.00"}
+  ]
+}
